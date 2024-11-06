@@ -1,0 +1,13 @@
+2024/11/05: dasa - Ingreso fallido. Usuario o clave incorrectos.
+2024/11/05: usuario - Ingreso exitoso al sistema
+2024/11/05: usuario - Ingreso exitoso al sistema
+2024/11/05: usuario - Triángulo
+2024/11/05: usuario - Continuar con otro calculo
+2024/11/05: usuario - Salida del sistema
+2024/11/05: usuario - Ingreso exitoso al sistema
+2024/11/05: usuario - Triángulo
+2024/11/05: usuario - Continuar con otro calculo
+2024/11/05: usuario - Rectángulo
+2024/11/05: usuario - Continuar con otro calculo
+2024/11/05: usuario - Salida del sistema
+2024/11/05: usuario - Ingreso fallido. Usuario o clave incorrectos.

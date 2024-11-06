@@ -53,4 +53,9 @@ int mostrar_elegir_SV();
 void mostrar_resultado(const char *figura, float resultado);
 int continuar();
 
+// Validación
+void obtenerFecha(char *fecha);
+void registrarAccion(const char *usuario, const char *accion);
+int validarUsuario(const char *usuario, const char *clave);
+
 #endif
